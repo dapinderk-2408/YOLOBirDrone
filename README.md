@@ -1,7 +1,13 @@
 # YOLOBirDrone
 [![arXiv](https://img.shields.io/badge/arXiv-2601.08319-b31b1b.svg)](https://arxiv.org/abs/2601.08319)
-# 
-Labeled DataSet For Drone Vs Bird
+
+## 📊 Dataset Availability
+
+A **labeled dataset for bird vs drone detection and classification** has been developed as part of this work.
+
+📌 **Availability:** Coming Soon  
+
+The dataset will be released publicly to facilitate benchmarking and future research in aerial object detection.
 
 Data will be available Soon
 # arXiv Preprint
