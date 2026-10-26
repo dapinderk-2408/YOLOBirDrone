@@ -5,11 +5,15 @@
 
 A **labeled dataset for bird vs drone detection and classification** has been developed as part of this work.
 
-📌 **Availability:** Patial Available
+📌 **Availability:** Available on Request
 
-The dataset will be released publicly to facilitate benchmarking and future research in aerial object detection.
+The dataset is complete and will be made available to facilitate benchmarking and support future research in aerial object detection.
 
-Complete Data will be available Soon
+To obtain access to the complete dataset, please fill out the following form and then send an email to shashipoddar.csio@csir.res.in.
+
+Request Form: https://forms.gle/pirheAhBfkG9YbdC7
+
+Contact Email: shashipoddar.csio@csir.res.in
 # arXiv Preprint
 “YOLOBirDrone: Dataset for Bird vs Drone Detection and Classification and a YOLO-based Enhanced Learning Architecture”
 
